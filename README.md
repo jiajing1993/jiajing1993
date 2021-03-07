@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="50%">
+
 <!--
 **jiajing1993/jiajing1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
